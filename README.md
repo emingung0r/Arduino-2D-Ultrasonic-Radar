@@ -100,9 +100,24 @@ arduino_radar_project/
 
 ## 👨‍💻 Geliştirici
 
-**Abdurrahman Güngör**
+<p align="center">
+  <div style="position: relative; display: inline-block; text-align: center;">
+    <img src="https://i.imgyukle.com/2025/05/22/CF4Z5c.png" 
+         alt="Abdurrahman Güngör" 
+         width="200" 
+         style="border-radius: 50%;">
+    <div style="position: absolute; top: 50%; left: 50%; 
+                transform: translate(-50%, -50%);
+                color: white; font-weight: bold; font-size: 16px;
+                font-family: sans-serif; text-shadow: 1px 1px 2px black;">
+      Abdurrahman Güngör
+    </div>
+  </div>
+</p>
 
-Yorumlu kodlar ve görsel açıklamalar dahil edilmiştir.
+<p align="center">
+  Yorumlu kodlar ve görsel açıklamalar dahil edilmiştir.
+</p>
 
 ---
 
