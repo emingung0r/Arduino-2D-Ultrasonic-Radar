@@ -101,16 +101,36 @@ arduino_radar_project/
 ## 👨‍💻 Geliştirici
 
 
-<p align="center">
-  <img src="https://r.resimlink.com/8qCBu7zv.png" 
-       alt="Abdurrahman Güngör" 
-       border="0" 
-       width="200" 
-       style="border-radius: 50%;">
-  <br><br>
-  <b>Abdurrahman Güngör</b><br>
-  Yorumlu kodlar ve görsel açıklamalar dahil edilmiştir.
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="45%">
+      <img src="https://i.imgyukle.com/2025/05/22/CF4Z5c.png" 
+           alt="Abdurrahman Güngör" 
+           border="0" 
+           width="200" 
+           style="border-radius: 50%;"><br><br>
+      <b>Abdurrahman Güngör</b><br>
+      <i>Geliştirici</i><br>
+      Yorumlu kodlar ve görsel açıklamalar dahil edilmiştir.
+    </td>
+    
+    <td align="center" width="10%">
+      <b>|</b>
+    </td>
+    
+    <td align="center" width="45%">
+      <img src="https://r.resimlink.com/cHLD2.jpeg" 
+           alt="Tasarımcı" 
+           border="0" 
+           width="200" 
+           style="border-radius: 50%;"><br><br>
+      <b>Tasarımcı İsmi</b><br>
+      <i>Tasarım Geliştirici</i><br>
+      Yorumlu arayüz ve kullanıcı deneyimi tasarımı.
+    </td>
+  </tr>
+</table>
+
 
 ---
 
