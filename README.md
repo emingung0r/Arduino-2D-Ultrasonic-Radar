@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://r.resimlink.com/mjosL.png" alt="Arduino Logo" width="300"/>
+</p>
+
+<h1 align="center">
+  Arduino Tabanlı 2D Ultrasonik Radar<br>
+  Görüntüleme Sistemi
+</h1>
 
 # Arduino Tabanlı 2D Ultrasonik Radar Görüntüleme Sistemi
 
