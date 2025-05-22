@@ -43,12 +43,10 @@ arduino_radar_project/
 
 ## 🖼️ Ekran Görüntüsü
 
-![Radar1](https://r.resimlink.com/DWlvfC-QLmZ.jpeg)
-![Radar2 Güvenli](https://r.resimlink.com/7F2pkiPm6V.jpeg)
-![Radar3 Orta Risk](https://r.resimlink.com/b-QHuWvsP.jpeg)
-![Radar4 Tehlike](https://r.resimlink.com/G6U7CV.jpeg)
-
-
+<img src="https://r.resimlink.com/DWlvfC-QLmZ.jpeg" alt="Radar1" width="480"/>
+<img src="https://r.resimlink.com/7F2pkiPm6V.jpeg" alt="Radar2 Güvenli" width="480"/>
+<img src="https://r.resimlink.com/b-QHuWvsP.jpeg" alt="Radar3 Orta Risk" width="480"/>
+<img src="https://r.resimlink.com/G6U7CV.jpeg" alt="Radar4 Tehlike" width="480"/>
 
 
 
