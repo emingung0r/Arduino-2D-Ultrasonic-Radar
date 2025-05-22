@@ -7,7 +7,6 @@
   Görüntüleme Sistemi
 </h1>
 
-# Arduino Tabanlı 2D Ultrasonik Radar Görüntüleme Sistemi
 
 Bu proje, **Arduino** ve **Processing** kullanılarak geliştirilen bir 2D radar simülasyonudur. Radar, ultrasonik sensör ile mesafe verisi toplar ve bu veriyi seri haberleşme ile bilgisayara gönderir. Bilgisayarda çalışan Processing arayüzü, bu veriyi görsel bir radar ekranında dinamik olarak gösterir.
 
