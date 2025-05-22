@@ -74,7 +74,7 @@ arduino_radar_project/
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://r.resimlink.com/X4-U1eYlR7K6.jpeg" alt="Radar1" width="100%"><br>
+      <img src="https://r.resimlink.com/scHFWSjuy.jpeg" alt="Radar1" width="100%"><br>
       <b>Radar 1 - Geniş Alan Taraması</b>
     </td>
     <td align="center" width="50%">
@@ -93,6 +93,7 @@ arduino_radar_project/
     </td>
   </tr>
 </table>
+
 
 
 ---
