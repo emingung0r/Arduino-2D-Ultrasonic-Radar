@@ -102,7 +102,7 @@ arduino_radar_project/
 
 
 <p align="center">
-  <img src="https://i.imgyukle.com/2025/05/22/CF4Z5c.png" 
+  <img src="https://r.resimlink.com/8qCBu7zv.png" 
        alt="IMG 6601" 
        border="0" 
        width="200" 
