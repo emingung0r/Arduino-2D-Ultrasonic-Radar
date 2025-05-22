@@ -104,7 +104,7 @@ arduino_radar_project/
 <table align="center" style="border-collapse: collapse;">
 <tr>
   <td align="center" width="45%">
-    <img src="https://i.imgyukle.com/2025/05/22/CF4Z5c.png" 
+    <img src="https://r.resimlink.com/vjWDsJc6yE.png" 
          alt="Abdurrahman Güngör" 
          width="200" 
          style="border-radius: 20px;">
