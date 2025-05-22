@@ -102,39 +102,37 @@ arduino_radar_project/
 
 
 <table align="center" style="border-collapse: collapse;">
-  <tr>
-    <!-- Geliştirici -->
-    <td align="center" width="45%">
-      <img src="https://i.imgyukle.com/2025/05/22/CF4Z5c.png" 
-           alt="Abdurrahman Güngör" 
-           width="200" 
-           style="border-radius: 20px;">
-      <br>
-      <b>Abdurrahman Güngör</b><br>
-      <i>Geliştirici</i>
-    </td>
+<tr>
+  <td align="center" width="45%">
+    <img src="https://i.imgyukle.com/2025/05/22/CF4Z5c.png" 
+         alt="Abdurrahman Güngör" 
+         width="200" 
+         style="border-radius: 20px;">
+    <br>
+    <b>Abdurrahman Güngör</b><br>
+    <i>Geliştirici</i>
+  </td>
 
-    <!-- Dikey çizgi -->
-    <td align="center" width="10%" style="font-size: 24px;">
-      |
-    </td>
+  <td align="center" width="10%" style="font-size: 24px;">
+    |
+  </td>
 
-    <!-- Tasarımcı -->
-    <td align="center" width="45%">
-      <img src="https://r.resimlink.com/cHLD2.jpeg" 
-           alt="Tasarımcı" 
-           width="200" 
-           style="border-radius: 20px;">
-      <br>
-      <b>Tasarımcı İsmi</b><br>
-      <i>Tasarım Geliştirici</i>
-    </td>
-  </tr>
+  <td align="center" width="45%">
+    <img src="https://r.resimlink.com/cHLD2.jpeg" 
+         alt="Tasarımcı" 
+         width="200" 
+         style="border-radius: 20px;">
+    <br>
+    <b>Ahmet Emin Güngör</b><br>
+    <i>Tasarım Geliştirici</i>
+  </td>
+</tr>
 </table>
 
 <p align="center">
   Yorumlu kodlar ve görsel açıklamalar dahil edilmiştir.
 </p>
+
 
 
 ---
