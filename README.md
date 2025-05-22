@@ -71,29 +71,28 @@ arduino_radar_project/
 
 <h3 align="center">📸 Radar Arayüz Görselleri</h3>
 
-<!-- Radar 1 -->
-<p align="center">
-  <img src="https://r.resimlink.com/DWlvfC-QLmZ.jpeg" alt="Radar1 - Geniş Alan" width="100%"><br>
-  <b>Radar 1 - Geniş Alan Taraması</b>
-</p>
-
-<!-- Radar 2 -->
-<p align="center">
-  <img src="https://r.resimlink.com/7F2pkiPm6V.jpeg" alt="Radar2 - Güvenli Mesafe" width="100%"><br>
-  <b>Radar 2 - Güvenli Mesafe</b>
-</p>
-
-<!-- Radar 3 -->
-<p align="center">
-  <img src="https://r.resimlink.com/b-QHuWvsP.jpeg" alt="Radar3 - Orta Risk" width="100%"><br>
-  <b>Radar 3 - Orta Risk Alanı</b>
-</p>
-
-<!-- Radar 4 -->
-<p align="center">
-  <img src="https://r.resimlink.com/G6U7CV.jpeg" alt="Radar4 - Tehlike" width="100%"><br>
-  <b>Radar 4 - Tehlike Durumu</b>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://r.resimlink.com/DWlvfC-QLmZ.jpeg" alt="Radar1" width="100%"><br>
+      <b>Radar 1 - Geniş Alan Taraması</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://r.resimlink.com/7F2pkiPm6V.jpeg" alt="Radar2" width="100%"><br>
+      <b>Radar 2 - Güvenli Mesafe</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://r.resimlink.com/b-QHuWvsP.jpeg" alt="Radar3" width="100%"><br>
+      <b>Radar 3 - Orta Risk Alanı</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://r.resimlink.com/G6U7CV.jpeg" alt="Radar4" width="100%"><br>
+      <b>Radar 4 - Tehlike Durumu</b>
+    </td>
+  </tr>
+</table>
 
 
 ---
