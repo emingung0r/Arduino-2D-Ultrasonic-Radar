@@ -62,8 +62,8 @@ arduino_radar_project/
 
    ```java
    myPort = new Serial(this, "COM7", 9600);
-
-
+  
+5.Processing uygulamasını çalıştırın ve radar arayüzü açıldığında anlık olarak nesne taramasını izleyin.
 ---
 
 ## 🖼️ Ekran Görüntüsü
