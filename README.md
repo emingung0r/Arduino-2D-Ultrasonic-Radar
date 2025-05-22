@@ -44,10 +44,15 @@ arduino_radar_project/
 ## 🖼️ Ekran Görüntüsü
 
 *(İsteğe bağlı olarak görsel buraya eklenebilir)*
-![Radar1] https://imgyukle.com/i/CF4Jks
-![Radar2] https://imgyukle.com/i/CF4QHQ
-![Radar3] https://imgyukle.com/i/CF4Veb
-![Radar4] https://imgyukle.com/i/CF4RcS
+![Radar1] [https://imgyukle.com/i/CF4Jks](https://i.imgyukle.com/2025/05/22/CF4Jks.jpeg)
+![Radar2] [https://imgyukle.com/i/CF4QHQ](https://i.imgyukle.com/2025/05/22/CF4QHQ.jpeg)
+![Radar3] [https://imgyukle.com/i/CF4Veb](https://i.imgyukle.com/2025/05/22/CF4Veb.jpeg)
+![Radar4] [https://imgyukle.com/i/CF4RcS](https://i.imgyukle.com/2025/05/22/CF4RcS.jpeg)
+
+
+
+
+
 
 ---
 
