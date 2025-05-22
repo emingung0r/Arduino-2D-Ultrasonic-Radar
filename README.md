@@ -51,11 +51,18 @@ arduino_radar_project/
 
 ## 🚀 Kurulum ve Kullanım
 
-1. Arduino IDE'yi açın ve `sketch_aug15a.ino` dosyasını yükleyin.
-2. Sensörü ve servoyu doğru pinlere bağlayın.
-3. Processing'de `sketch__al__ansketch_250521a.pde` dosyasını açın.
-4. **`myPort = new Serial(this, "COM7", 9600);`** satırındaki `COM7` değerini kendi bilgisayarınızdaki porta göre değiştirin.
-5. Çalıştırın ve radar ekranını izleyin.
+1. **Arduino IDE'yi açın** ve `sketch_aug15a.ino` dosyasını yükleyin.
+
+2. **Donanımı bağlayın:**  
+   Ultrasonik sensörü ve servo motoru uygun pinlere bağlayın.
+
+3. **Processing IDE'yi açın** ve `sketch__al__ansketch_250521a.pde` dosyasını açın.
+
+4. Aşağıdaki satırı bulun ve `COM7` ifadesini kendi portunuza göre değiştirin:
+
+   ```java
+   myPort = new Serial(this, "COM7", 9600);
+
 
 ---
 
